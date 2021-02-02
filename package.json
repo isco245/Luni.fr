@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
+  "name": "Luni.fr-laucher",
+  "version": "1.122.",
+  "productName": "Luni.fr-Launcher",
+  "description": "le laucher off de Mincraft",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/isco245/Luni.fr",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/isco245/Luni.fr/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,4 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
-  }
-}
+    "url": "git+https://github.com/isco245/Luni.fr.git"
